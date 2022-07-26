@@ -1,31 +1,28 @@
 # ReadMe-Generator
 
 ### Licenses
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Table of Contents
-* [Description](#description)
 
-* [Installation](#installation-instructions)
+ ## Description
+ 
+ This application is designed with the purpose of maximizing efficincy in creating README.md files so that creators can focus on their projects. The generated ReadMe.md includes well thought out aspects including licenses, and a dynamic table of contents. 
+ 
+ ## How To
 
-* [Usage-Information](#usage-information)
+ ![DEMO](https://drive.google.com/file/d/1cI44ed8lKlEUCbP9EA0pvH045d9IPF5I/view)
 
-* [Contribution](#contribution-guidelines)
+ To use this application, users should have node.js installed. Additionally, users should install the npm Inquirer package. This application generates the README.md from the terminal command-line. 
 
-* [Test-Instructions](#test-instructions)
+ * Step one: Open the terminal and type 'node index.js'.
 
-* [Questions](#questions)
+* Step two: Answer the prompts.
+![prompts](./assets/img/prompts.jpeg)
 
-## Description
+* Step three: Open the generated RREADME.md
+![README.md](./assets/img/README.jpeg)
 
-## Installation Instructions
 
-## Usage Information
 
-## Contribution Guidelines
-
-## Test Instructions
-
-## Questions 
-
-* 
-* 
+ ## Credits & Resources
+ I used many examples from the UT resources provided in class and github resources.
