@@ -10,7 +10,7 @@
  
  ## How To
 
- ![DEMO](https://drive.google.com/file/d/1cI44ed8lKlEUCbP9EA0pvH045d9IPF5I/view)
+ [DEMO](https://drive.google.com/file/d/1cI44ed8lKlEUCbP9EA0pvH045d9IPF5I/view)
 
  To use this application, users should have node.js installed. Additionally, users should install the npm Inquirer package. This application generates the README.md from the terminal command-line. 
 
